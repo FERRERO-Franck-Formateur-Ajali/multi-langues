@@ -1,7 +1,3 @@
-<?php
-    require_once ROOT.'/lang/'.$language.'.php';
-?>
-
 <!doctype html>
 <html lang="<?= $language; ?>">
     <head>
